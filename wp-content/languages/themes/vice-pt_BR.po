@@ -1,0 +1,60 @@
+# Translation of Themes - vice in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-14 17:57:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating sites for corporate, creative businesses, small businesses, startups, portfolios, restaurants, online agencies, firms, freelancers, real estate agencies, travel, photography, recipes, design, art, law and architect firms. Vice is a child theme of the Appointment theme, and has several sections such as slider, services, widget area, etc. Vice offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/appointment/. We hope you will find the Vice theme useful."
+msgstr "Um tema de negócios que é ideal para negócios, criatividade, pequenas empresas, startups, portfólio, restaurantes, agências online, empresas, freelancers, imóveis, viagens, fotografia, receitas, design, arte, escritórios de advocacia e site de arquiteto. O Vice é um tema filho com várias seções, como sliders, serviços, área de widgets e etc. O tema Vice oferece um layout de blog bem projetado. Visite este link https://wordpress.org/themes/appointment/ para saber mais detalhes sobre o tema. Espero que você ache o tema Vice útil."
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "Vice"
+
+#: home.php:28
+msgid "In"
+msgstr "Em"
+
+#: home.php:23
+msgid "Posted"
+msgstr "Publicado"
+
+#: home.php:22
+msgid "By"
+msgstr "Por"
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr "Primeiros passos"
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "Welcome! Thank you for choosing the Vice theme. Use our homepage to make the most out of it. For instructions, follow the button."
+msgstr "Bem vindo! Obrigado por escolher o tema Vice. Use nossa Página inicial para aproveitar nossos recursos. Para instruções, siga o botão."
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr "Ativar Página inicial"
+
+#: home.php:32
+msgid "Read More"
+msgstr "Leia mais"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr "https://webriti.com/vice-wordpress-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

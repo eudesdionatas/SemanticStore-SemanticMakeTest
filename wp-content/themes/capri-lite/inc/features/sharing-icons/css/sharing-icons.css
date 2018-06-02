@@ -1,0 +1,155 @@
+.share li a {
+	color: #505460;
+}
+
+.share li.share-end {
+	display: none;
+}
+
+.share li a:hover {
+	color: #363639;
+	text-decoration: none;
+}
+
+.share .sd-title {
+	display: none;
+}
+
+.sharing-screen-reader-text {
+	display: none;
+}
+
+.share li a {
+	font-size: 16px;
+}
+
+.share {
+	display: table-cell;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+@media screen and (min-width: 768px) {
+	.share {
+		margin-top: 30px;
+	}
+
+	.share .sd-content {
+		float: left;
+	}
+}
+
+.share .sd-content {
+	display: inline-block;
+}
+
+.share ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.share li {
+	display: inline-block;
+	margin-left: 20px;
+	padding: 0;
+}
+
+.share li:first-child {
+	margin-left: 0;
+}
+
+/* Icons */
+.share li a:before {
+	font-family: FontAwesome;
+}
+
+.share li[class*="facebook"] a:before {
+	content: "\f09a";
+}
+
+.share li[class*="twitter"] a:before {
+	content: "\f099";
+}
+
+.share li[class*="google"] a:before {
+	content: "\f0d5";
+}
+
+.share li[class*="linkedin"] a:before {
+	content: "\f0e1";
+}
+
+.share li[class*="pinterest"] a:before {
+	content: "\f0d2";
+}
+
+.share li[class*="tumblr"] a:before {
+	content: "\f173";
+}
+
+.share li[class*="reddit"] a:before {
+	content: "\f281";
+}
+
+.share li[class*="skype"] a:before {
+	content: "\f17e";
+}
+
+.share li[class*="whatsapp"] a:before {
+	content: "\f232";
+}
+
+.share li[class*="pocket"] a:before {
+	content: "\f265";
+}
+
+.share li[class*="telegram"] a:before {
+	content: "\f1d8";
+}
+
+.share li[class*="email"] a:before {
+	content: "\f0e0";
+}
+
+.share li[class*="print"] a:before {
+	content: "\f02f";
+}
+
+.cat-list {
+	display: table-cell;
+	width: 80%;
+	vertical-align: middle;
+}
+
+@media screen and (min-width: 768px) {
+	.cat-list {
+		width: initial;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.share .sd-title,
+	.share li a {
+		color: #505460;
+		font-size: 16px;
+	}
+
+	.share {
+		display: table-cell;
+		width: 25%;
+		text-align: right;
+		vertical-align: middle;
+	}
+
+	.share li {
+		margin-right: 0;
+		margin-left: 13px;
+		font-style: normal;
+	}
+
+	.share li:first-child {
+		margin: 0;
+	}
+}

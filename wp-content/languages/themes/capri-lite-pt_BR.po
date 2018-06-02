@@ -1,0 +1,469 @@
+# Translation of Themes - Capri Lite in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Capri Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-05 15:44:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Capri Lite\n"
+
+#. Description of the plugin/theme
+msgid "Capri Lite is a clean, elegant WordPress theme, perfect for building an one page online store with minimal effort. WooCommerce ready, live Customizer, WPML compatibility, contact form integration, and quality support are just some of features that make Capri Lite the best choice for your site."
+msgstr "Capri Lite é um tema elegante e limpo, perfeito para montar uma loja virtual de página única com um mínimo de esforço. Pronto para o WooCommerce, compatível com o WPML, integração com formulários de contato e suporte de qualidade são apenas alguns dos recursos que fazem do Capri Lite a melhor escolha para seu site."
+
+#. Theme Name of the plugin/theme
+msgid "Capri Lite"
+msgstr "Capri Lite"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-search.php:42 template-parts/content.php:60
+msgid "Continue reading %s"
+msgstr "Continue a ler %s"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:42
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: template-parts/content-page.php:29 template-parts/content-search.php:55
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você estava procurando. De repente fazer uma busca possa ajudar."
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpas, mas nada foi encontrado com seus termos de busca. Por favor, tente novamente com termos diferentes."
+
+#. translators: %1$s is url to new post, %2$s is link label
+#: template-parts/content-none.php:32
+msgid "Get started here"
+msgstr "Comece aqui"
+
+#. translators: $s is link to new post
+#: template-parts/content-none.php:27
+msgid "Ready to publish your first post? %s."
+msgstr "Pronto para publicar seu primeiro post? %s."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: single.php:31
+msgid "Next Post"
+msgstr "Próximo post"
+
+#: single.php:30
+msgid "Prev Post"
+msgstr "Post anterior"
+
+#: inc/woocommerce/functions.php:586 inc/woocommerce/functions.php:593
+msgid "View Cart"
+msgstr "Ver carrinho"
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "Continue Shopping"
+msgstr "Continuar a comprar"
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "has been added to your cart."
+msgstr "foi adicionado ao carrinho."
+
+#. translators: %s is post title
+#: inc/woocommerce/functions.php:487
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Seja o primeiro a avaliar &ldquo;%s&rdquo;"
+
+#. translators: %s is post title
+#: inc/woocommerce/functions.php:482
+msgid "Add a review for: '%s'"
+msgstr "Adicione uma avaliação para: &ldquo;%s&rdquo;"
+
+#: inc/woocommerce/functions.php:477
+msgid "Written Review"
+msgstr "Avaliação escrita"
+
+#: inc/woocommerce/functions.php:477
+msgid "Your review"
+msgstr "Sua avaliação"
+
+#: inc/woocommerce/functions.php:474
+msgid "Very poor"
+msgstr "Péssimo"
+
+#: inc/woocommerce/functions.php:473
+msgid "Not that bad"
+msgstr "Não é tão ruim"
+
+#: inc/woocommerce/functions.php:472
+msgid "Average"
+msgstr "Regular"
+
+#: inc/woocommerce/functions.php:471
+msgid "Good"
+msgstr "Bom"
+
+#: inc/woocommerce/functions.php:470
+msgid "Perfect"
+msgstr "Perfeito"
+
+#: inc/woocommerce/functions.php:469
+msgid "Rate&hellip;"
+msgstr "Classifique&hellip;"
+
+#: inc/woocommerce/functions.php:468
+msgid "Your rating"
+msgstr "Sua classificação"
+
+#: inc/woocommerce/functions.php:464
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: inc/woocommerce/functions.php:205
+msgid "Post categories +"
+msgstr "Categorias do post +"
+
+#: inc/woocommerce/functions.php:187
+msgid "Product categories +"
+msgstr "Categorias do produto +"
+
+#: inc/woocommerce/functions.php:92
+msgid "Next page"
+msgstr "Próxima página"
+
+#: inc/woocommerce/functions.php:91
+msgid "Prev page"
+msgstr "Página anterior"
+
+#. translators: %1$s is tags list
+#: inc/template-tags.php:68
+msgid "tagged: %1$s"
+msgstr "palavras-chave: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:198
+msgid "Upload Image"
+msgstr "Carregue uma imagem"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:190
+msgid "Uploaded image"
+msgstr "Imagem carregada"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:167
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:159
+msgid "Button link"
+msgstr "Link do botão"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:151
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:143
+msgid "Text"
+msgstr "Texto"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:135
+msgid "Title"
+msgstr "Título"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:32
+msgid "Capri - Ribbon"
+msgstr "Capri - Faixa"
+
+#: inc/extras.php:212
+msgid "Add a menu"
+msgstr "Adicione um menu"
+
+#. translators: %s is Search query
+#: inc/extras.php:119
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: inc/customizer.php:399
+msgid "Edit this section title in Customizer"
+msgstr "Edite o título dessa seção no Personalizador"
+
+#. translators: %1$s is Url to new products , %2$s is New products text
+#: inc/customizer.php:375
+msgid "here"
+msgstr "aqui"
+
+#. translators: %1$s: is Link to new products
+#: inc/customizer.php:370
+msgid "There are no products to display. Click %1$s to add new products!"
+msgstr "Não há produtos a mostrar. Clique em %1$s para adicionar novos produtos!"
+
+#: inc/customizer.php:245
+msgid "None"
+msgstr "Nenhuma"
+
+#: inc/customizer.php:225
+msgid "Select category"
+msgstr "Selecione uma categoria"
+
+#: inc/customizer.php:68 inc/customizer.php:91
+msgid "Copyright"
+msgstr "Créditos"
+
+#: inc/customizer.php:62
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer.php:50
+msgid "Blog Title"
+msgstr "Título do blog"
+
+#: inc/customizer.php:37
+msgid "Drag and drop panels to change sections order."
+msgstr "Arraste e solte os painéis para mudar a ordem das seções."
+
+#: inc/customizer.php:36
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:48
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/customizer-pro/customizer-theme-info.php:47
+msgid "WPML/Polylang compatibility"
+msgstr "Compatibilidade com WPML/Polylang"
+
+#: inc/customizer-pro/customizer-theme-info.php:46
+msgid "About frontpage section"
+msgstr "Sobre as seções Página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:45
+msgid "Special offers frontpage section"
+msgstr "Seção Ofertas especiais na Página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:44
+msgid "Categories frontpage section"
+msgstr "Seção Categorias na Página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:43
+msgid "Featured products frontpage section"
+msgstr "Seção Destaques na Página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:42
+msgid "Big title frontpage section"
+msgstr "Seção Grande título na Página inicial"
+
+#: inc/customizer-pro/customizer-theme-info.php:24
+#: inc/customizer-pro/customizer-theme-info.php:52
+msgid "View PRO version"
+msgstr "Ver a versão Pro"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:84
+msgid "Change Image"
+msgstr "Mudar imagem"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:83
+msgid "Remove"
+msgstr "Remover"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:82
+msgid "About background"
+msgstr "Sobre o fundo"
+
+#. translators: %s is next text
+#: image.php:114
+msgid "Next"
+msgstr "Próximo"
+
+#. translators: %s is previous text
+#: image.php:108
+msgid "Previous"
+msgstr "Anterior"
+
+#. translators: %1$s is post title
+#. translators: %1$s is categories list
+#: image.php:79 inc/template-tags.php:63
+msgid "posted under: %1$s"
+msgstr "publicado em: %1$s"
+
+#: image.php:71
+msgid "Full resolution"
+msgstr "Resolução total"
+
+#. translators: %1$s is attachment url, %2$s is attachment title, %3$s is full
+#. resolution, %4$s is image width, %5$s is image height
+#: image.php:70
+msgid "Link to full-size image"
+msgstr "Link para a imagem de tamanho total"
+
+#. translators: %1$s is date attribute, %2$s is date
+#: image.php:45
+msgid "<span class=\"attachment-meta\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+msgstr "<span class=\"attachment-meta\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+
+#: header.php:99
+msgid "Your Cart"
+msgstr "Seu carrinho"
+
+#: header.php:98
+msgid "View your shopping cart"
+msgstr "Ver seu carrinho"
+
+#: header.php:70
+msgid "Primary Menu"
+msgstr "Menu primário"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: functions.php:378
+msgid "Comment"
+msgstr "Comentário"
+
+#: functions.php:361
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:356 inc/woocommerce/functions.php:463
+msgid "Email"
+msgstr "E-mail"
+
+#: functions.php:351 inc/woocommerce/functions.php:461
+#: inc/woocommerce/functions.php:462
+msgid "Name"
+msgstr "Nome"
+
+#: functions.php:296
+msgid "collapse child menu"
+msgstr "recolher menu-filho"
+
+#: functions.php:295
+msgid "expand child menu"
+msgstr "expandir menu-filho"
+
+#: functions.php:253
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr "ativada"
+
+#: functions.php:252
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s: Name of current post
+#: functions.php:225
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue a ler <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: functions.php:193
+msgid "Ribbon area"
+msgstr "Área da faixa de promoção"
+
+#: functions.php:181
+msgid "Sidebar Shop"
+msgstr "Loja na barra lateral"
+
+#. translators: %d is Footer id
+#: functions.php:168
+msgid "Footer %d"
+msgstr "Rodapé %d"
+
+#: functions.php:155
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:82
+msgid "Primary"
+msgstr "Primário"
+
+#. translators: %s is WordPress name
+#: footer.php:65 inc/customizer.php:82
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: %s is Theme link
+#: footer.php:63 inc/customizer.php:80
+msgid "CAPRI"
+msgstr "CAPRI"
+
+#. translators: $1%s: Theme link, %2$s WordPress link
+#. translators: %1$s: Theme link, %2$s: WordPress link
+#: footer.php:61 inc/customizer.php:78
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s sou movido a %2$s"
+
+#: comments.php:99
+msgid "Comments are closed."
+msgstr "Não é possível comentar."
+
+#: comments.php:61 comments.php:85
+msgid "Newer Comments"
+msgstr "Comentários recentes"
+
+#: comments.php:60 comments.php:84
+msgid "Older Comments"
+msgstr "Comentários antigos"
+
+#: comments.php:57 comments.php:81
+msgid "Comment navigation"
+msgstr "Navegação nos comentários"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ideia sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ideias sobre &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Uma ideia sobre &ldquo;%s&rdquo;"
+
+#: archive.php:59 index.php:72 search.php:57
+msgid "Page"
+msgstr "Página"
+
+#: archive.php:58 index.php:71 search.php:56
+msgid "Older posts"
+msgstr "Posts antigos"
+
+#: archive.php:57 index.php:70 search.php:55
+msgid "Newer posts"
+msgstr "Posts recentes"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado nesse local. Quem sabe tentamos uma busca?"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Epa! Essa página não pode ser encontrada."
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com/"
+msgstr "https://themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/capri"
+msgstr "https://themeisle.com/themes/capri"

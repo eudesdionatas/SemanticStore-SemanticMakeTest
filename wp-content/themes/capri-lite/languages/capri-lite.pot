@@ -1,0 +1,492 @@
+# Copyright (C) 2018 ThemeIsle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Capri Lite 1.1.21\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/capri-pro/issues\n"
+"POT-Creation-Date: 2018-03-21 16:28:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:57 index.php:70 search.php:55
+msgid "Newer posts"
+msgstr ""
+
+#: archive.php:58 index.php:71 search.php:56
+msgid "Older posts"
+msgstr ""
+
+#: archive.php:59 index.php:72 search.php:57
+msgid "Page"
+msgstr ""
+
+#: comments.php:57 comments.php:81
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60 comments.php:84
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61 comments.php:85
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:99
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:61 inc/customizer.php:78
+#. translators: $1%s: Theme link, %2$s WordPress link
+#. translators: %1$s: Theme link, %2$s: WordPress link
+msgid "%1$s | Powered by %2$s"
+msgstr ""
+
+#: footer.php:63 inc/customizer.php:80
+#. translators: %s is Theme link
+msgid "CAPRI"
+msgstr ""
+
+#: footer.php:65 inc/customizer.php:82
+#. translators: %s is WordPress name
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary"
+msgstr ""
+
+#: functions.php:155
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:168
+#. translators: %d is Footer id
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:181
+msgid "Sidebar Shop"
+msgstr ""
+
+#: functions.php:193
+msgid "Ribbon area"
+msgstr ""
+
+#: functions.php:225
+#. translators: %s: Name of current post
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:295
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:296
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:351 inc/woocommerce/functions.php:461
+#: inc/woocommerce/functions.php:462
+msgid "Name"
+msgstr ""
+
+#: functions.php:356 inc/woocommerce/functions.php:463
+msgid "Email"
+msgstr ""
+
+#: functions.php:361
+msgid "Website"
+msgstr ""
+
+#: functions.php:378
+msgid "Comment"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:70
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:98
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:99
+msgid "Your Cart"
+msgstr ""
+
+#: image.php:45
+#. translators: %1$s is date attribute, %2$s is date
+msgid ""
+"<span class=\"attachment-meta\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time>"
+msgstr ""
+
+#: image.php:70
+#. translators: %1$s is attachment url, %2$s is attachment title, %3$s is full
+#. resolution, %4$s is image width, %5$s is image height
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:71
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:79 inc/template-tags.php:63
+#. translators: %1$s is post title
+#. translators: %1$s is categories list
+msgid "posted under: %1$s"
+msgstr ""
+
+#: image.php:108
+#. translators: %s is previous text
+msgid "Previous"
+msgstr ""
+
+#: image.php:114
+#. translators: %s is next text
+msgid "Next"
+msgstr ""
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:82
+msgid "About background"
+msgstr ""
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:83
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:84
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:24
+#: inc/customizer-pro/customizer-theme-info.php:52
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:42
+msgid "Big title frontpage section"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:43
+msgid "Featured products frontpage section"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:44
+msgid "Categories frontpage section"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:45
+msgid "Special offers frontpage section"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:46
+msgid "About frontpage section"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:47
+msgid "WPML/Polylang compatibility"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:48
+msgid "Support"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Drag and drop panels to change sections order."
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Blog Title"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:68 inc/customizer.php:91
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Select category"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:370
+#. translators: %1$s: is Link to new products
+msgid "There are no products to display. Click %1$s to add new products!"
+msgstr ""
+
+#: inc/customizer.php:375
+#. translators: %1$s is Url to new products , %2$s is New products text
+msgid "here"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Edit this section title in Customizer"
+msgstr ""
+
+#: inc/extras.php:119
+#. translators: %s is Search query
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/extras.php:212
+msgid "Add a menu"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:32
+msgid "Capri - Ribbon"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:135
+msgid "Title"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:143
+msgid "Text"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:151
+msgid "Button text"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:159
+msgid "Button link"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:167
+msgid "Image"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:190
+msgid "Uploaded image"
+msgstr ""
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:198
+msgid "Upload Image"
+msgstr ""
+
+#: inc/template-tags.php:53 inc/template-tags.php:56
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:68
+#. translators: %1$s is tags list
+msgid "tagged: %1$s"
+msgstr ""
+
+#: inc/woocommerce/functions.php:91
+msgid "Prev page"
+msgstr ""
+
+#: inc/woocommerce/functions.php:92
+msgid "Next page"
+msgstr ""
+
+#: inc/woocommerce/functions.php:187
+msgid "Product categories +"
+msgstr ""
+
+#: inc/woocommerce/functions.php:205
+msgid "Post categories +"
+msgstr ""
+
+#: inc/woocommerce/functions.php:464
+msgid "Email Address"
+msgstr ""
+
+#: inc/woocommerce/functions.php:468
+msgid "Your rating"
+msgstr ""
+
+#: inc/woocommerce/functions.php:469
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/woocommerce/functions.php:470
+msgid "Perfect"
+msgstr ""
+
+#: inc/woocommerce/functions.php:471
+msgid "Good"
+msgstr ""
+
+#: inc/woocommerce/functions.php:472
+msgid "Average"
+msgstr ""
+
+#: inc/woocommerce/functions.php:473
+msgid "Not that bad"
+msgstr ""
+
+#: inc/woocommerce/functions.php:474
+msgid "Very poor"
+msgstr ""
+
+#: inc/woocommerce/functions.php:477
+msgid "Your review"
+msgstr ""
+
+#: inc/woocommerce/functions.php:477
+msgid "Written Review"
+msgstr ""
+
+#: inc/woocommerce/functions.php:482
+#. translators: %s is post title
+msgid "Add a review for: '%s'"
+msgstr ""
+
+#: inc/woocommerce/functions.php:487
+#. translators: %s is post title
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "has been added to your cart."
+msgstr ""
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/woocommerce/functions.php:586 inc/woocommerce/functions.php:593
+msgid "View Cart"
+msgstr ""
+
+#: single.php:30
+msgid "Prev Post"
+msgstr ""
+
+#: single.php:31
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:27
+#. translators: $s is link to new post
+msgid "Ready to publish your first post? %s."
+msgstr ""
+
+#: template-parts/content-none.php:32
+#. translators: %1$s is url to new post, %2$s is link label
+msgid "Get started here"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:47
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29 template-parts/content-search.php:55
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:42
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-search.php:42 template-parts/content.php:60
+#. translators: %s: Name of current post.
+msgid "Continue reading %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Capri Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/capri"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Capri Lite is a clean, elegant WordPress theme, perfect for building an one "
+"page online store with minimal effort. WooCommerce ready, live Customizer, "
+"WPML compatibility, contact form integration, and quality support are just "
+"some of features that make Capri Lite the best choice for your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com/"
+msgstr ""
+
+#: comments.php:37
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:252
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:253
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr ""

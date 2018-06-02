@@ -1,0 +1,1326 @@
+# Translation of Themes - Appointment in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 14:33:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the plugin/theme
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "O tema Appointment é um tema totalmente responsivo e pronto para a tradução que permite a você criar blogs e sites impressionantes. O tema é adequado para empresas, escritórios de advocacia, viagens, fotografia, receitas, design, arte, pessoal e outros sites e blogs criativos.O tema é desenvolvido usando o Bootstrap 3 que o faz compatível com dispositivos móveis e tablets. Conta com várias opções no Personalizador do WordPress para alterar o visual do tema. O personalizador pode ser usado para adicionar seu próprio cabeçalho personalizado, favicon, logo, slides, serviços, chamadas e muito mais. Na versão premium, você pode adicionar diferentes tipos de slides, como vídeo, notas, citação, status e padrão, todos com um visual HTML diferente. Há uma série de widgets embutidos; Barras laterais com suporte a WPML ou o plugin Polylang e Contact Form 7; Um modelo Portfólio, modelo Contato, layouts de colunas para  portfólio e muitas seções para negócios usando o modelo Homepage. O tema Appointment vem com vários locais de conteúdo. Basta navegar até Aparência / Personalizar para começar a personalizar."
+
+#. Theme Name of the plugin/theme
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Link para obter o ícone do FontAwesome"
+
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Want to use the predefined theme colors seen below?"
+msgstr "Deseja usar temas de cores predefinidas vistos abaixo?"
+
+#: functions/customizer/customizer-slider.php:5
+msgid "Want a greater variety of slides, just like our premium version?"
+msgstr "Quer uma variedade maior de slides, assim como nossa versão premium?"
+
+#: functions/customizer/customizer-service.php:453
+msgid "Add more services. Get Pro."
+msgstr "Adicione mais serviços. Se torne Pro."
+
+#: functions/appointment-info/sections/github.php:71
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Esta seção é freqüentemente usada para exibir o conteúdos do tipo Últimas Notícias, Anúncios e Eventos."
+
+#: functions/appointment-info/sections/github.php:53
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Você pode exibir vários Serviços na página inicial, com milhares de ícones do FontAwesome disponíveis. Você também pode exibir um conjunto de serviços em uma página separada usando os modelos de página relacionados ao serviço."
+
+#: functions/appointment-info/sections/github.php:34
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "Existe um lindo estilo de navegação/menu no tema Appointment. Você pode criar menus multi-níveis, ou seja, você pode criar submenus."
+
+#: functions/appointment-info/sections/github.php:11
+#: functions/appointment-info/welcome-screen.php:209
+msgid "Why Upgrade to Pro?"
+msgstr "Por que atualizar para o Pro?"
+
+#: functions/appointment-info/sections/free_pro.php:75
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "Com a ajuda do WPML, você pode criar um site multilíngue."
+
+#: functions/appointment-info/sections/child-themes.php:171
+msgid "SHK Corporate - Current theme"
+msgstr "SHK Corporate - Tema atual"
+
+#: functions/appointment-info/sections/child-themes.php:156
+#: functions/appointment-info/sections/child-themes.php:162
+msgid "SHK Corporate"
+msgstr "SHK Corporate"
+
+#: functions/appointment-info/sections/child-themes.php:154
+msgid "SHK Corporate Child Theme"
+msgstr "Tema filho SHK Corporate"
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "Categoria"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : Widget de informações"
+
+#: functions/customizer/customizer-template.php:139
+msgid "Service page settings"
+msgstr "Configurações da página Serviços"
+
+#: functions/customizer/customizer-template.php:92
+msgid "Blog page settings"
+msgstr "Configurações da página Blog"
+
+#: functions/customizer/customizer-template.php:66
+msgid "About Us page settings"
+msgstr "Configurações da página Sobre Nós"
+
+#: functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: functions/appointment-info/sections/free_pro.php:123
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and Custom Widgets"
+msgstr "Cabeçalho do topo, Slider [sem limites], Serviços [sem limites], chamadas, Portfolio [sem limites para Projetos], Últimas notícias, Clientes, Depoimentos e widgets personalizados"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Ocultar ícones sociais do rodapé"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "Arquivo de tag"
+
+#: search.php:11
+msgid "Search Results for"
+msgstr "Resultados da pesquisa por"
+
+#: index-slider.php:24 index-slider.php:32 index-slider.php:40
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Este é um tema muito poderoso que pode ser usado para qualquer tipo de negócio. O layout é limpo e elegante."
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Área de Widget da barra lateral"
+
+#: functions/customizer/customizer_theme_style.php:89
+msgid "Enable custom color skin"
+msgstr "Habilita cor personalizada do skin"
+
+#: functions/customizer/customizer-slider.php:124
+#: functions/customizer/customizer-testimonial.php:115
+msgid "Duration"
+msgstr "Duração"
+
+#: functions/customizer/customizer-testimonial.php:114
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr "Se o valor de atraso de transição for 2000, isso significa 2 segundos."
+
+#: functions/customizer/customizer-testimonial.php:91
+msgid "Animation"
+msgstr "Animação"
+
+#: functions/customizer/customizer-testimonial.php:19
+msgid "Homepage testimonial settings"
+msgstr "Configuração dos depoimentos da Homepage"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add testimonials? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Quer adicionar depoimentos? <a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:569
+msgid "Hide contact callout from Contact page"
+msgstr "Ocultar chamadas de contato da página de contato "
+
+#: functions/customizer/customizer-template.php:357
+msgid "Section description"
+msgstr "Descrição da seção"
+
+#: functions/customizer/customizer-template.php:341
+msgid "Section title"
+msgstr "Título da seção"
+
+#: functions/customizer/customizer-template.php:325
+msgid "Hide contact info section from Contact page"
+msgstr "Ocultar seção de informações de contato da página de contato"
+
+#: functions/customizer/customizer-template.php:47
+msgid "Want to add contact callout information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja adicionar informações de chamada de contato no modelo de contato? <a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:39
+msgid "Want to add contact address information in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja adicionar informações de endereço de contato no modelo de contato? <a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add contact form information and a contact map in the Contact template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja adicionar informações de formulário de contato e um mapa de contato no modelo Contato?<a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:24
+msgid "Want to use the blog meta settings? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja usar as configurações de meta do blog? <a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:15
+msgid "Want to add more services, testimonials, clients, footer callouts in the Service template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja adicionar mais serviços, depoimentos, clientes, chamadas no rodapé no modelo Serviço?<a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-template.php:7
+msgid "Want to add a company About Us, Team, Client, footer, callout with the About template? <a href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr "Deseja adicionar um Sobre nós, Equipe, Clientes, rodapé, chamadas com o modelo Sobre?<a href='http://www.webriti.com/appointment' target='_blank'>Faça o upgrade para Pro</a>"
+
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:93
+msgid "fade"
+msgstr "esmaecer"
+
+#: functions/customizer/customizer-slider.php:39
+msgid "Hide slider from homepage"
+msgstr "Ocultar slider da homepage"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Ocultar seção de serviço da homepage"
+
+#: functions/customizer/customizer-project.php:21
+msgid "Homepage project settings"
+msgstr "Configurações da homepage de Projetos"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr "Ocultar meta da seção Notícias"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr "Ocultar seção de notícias da Homepage"
+
+#: functions/customizer/customizer-header.php:316
+#: functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: functions/customizer/customizer-footer-callout.php:70
+#: functions/customizer/customizer-footer-callout.php:125
+#: functions/customizer/customizer-footer-callout.php:181
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:154
+#: functions/customizer/customizer-service.php:216
+#: functions/customizer/customizer-service.php:278
+#: functions/customizer/customizer-service.php:340
+#: functions/customizer/customizer-service.php:403
+#: functions/customizer/customizer-template.php:371
+#: functions/customizer/customizer-template.php:425
+#: functions/customizer/customizer-template.php:480
+msgid "Icon"
+msgstr "Ícone"
+
+#: functions/customizer/customizer-footer-callout.php:54
+msgid "Callout Header"
+msgstr "Chamada de cabeçalho"
+
+#: functions/customizer/customizer-footer-callout.php:47
+msgid "Stay in touch with us"
+msgstr "Enter em contato com a gente"
+
+#: functions/customizer/customizer-callout.php:148
+#: functions/customizer/customizer-callout.php:200
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-header.php:235
+#: functions/customizer/customizer-header.php:274
+#: functions/customizer/customizer-header.php:310
+#: functions/customizer/customizer-template.php:661
+msgid "Open link in new tab"
+msgstr "Abrir o link em um novo tab"
+
+#: functions/customizer/customizer-callout.php:132
+#: functions/customizer/customizer-callout.php:184
+#: functions/customizer/customizer-template.php:643
+msgid "Button Link"
+msgstr "Link de botão"
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-callout.php:167
+#: functions/customizer/customizer-template.php:624
+msgid "Button Text"
+msgstr "Botão de texto"
+
+#: functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr "Ocultar seção de chamada da homepage"
+
+#: functions/appointment-info/sections/github.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Nós temos uma excelente documentação que o ajudará a criar sites efetivos. Você pode visitar estes artigos através da nossa<a href='http://webriti.com/help/category/themes/appointment/' target='_blank'>Seção Ajuda</a>."
+
+#: functions/appointment-info/sections/free_pro.php:136
+msgid "Webriti Support Forum"
+msgstr "Fórum de suporte Webriti "
+
+#: functions/appointment-info/sections/free_pro.php:125
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Sobre nós, Serviços, Portfolio, Blog com laterais direita ou esquerda, Blog em largura total, Página com largura total, página Contato e muito mais"
+
+#: functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr "Fórum de suporte WordPress"
+
+#: functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Modelos de página Homepage e Largura total"
+
+#: functions/appointment-info/sections/free_pro.php:95
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Slider [Slides sem limites], área de widget abaixo do slider, serviços [6 Serviços], seção de chamadas, últimas notícias"
+
+#: comments.php:75
+msgid "Logout"
+msgstr "Sair"
+
+#: functions/customizer/customizer-footer-callout.php:5
+msgid "Want to add footer callout content?<a href='http://www.webriti.com/appointment' target='_blank'> Upgrade to Pro</a>."
+msgstr "Deseja adicionar conteúdo às chamadas de rodapé?<a href='http://www.webriti.com/appointment' target='_blank'> Faça o upgrade para Pro</a>."
+
+#: functions/customizer/customizer-client.php:21
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Título da seção"
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "Deixe sua mensagem"
+
+#: comments.php:64
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Você precisa fazer o <a href=\"%s\">login</a> para publicar um comentário."
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "Postado em"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Autor"
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:97
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr "COMECE O CURSO"
+
+#: functions/customizer/customizer-emailcourse.php:25
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "Neste curso de e-mail, te dou 4 dicas extremamente úteis sobre como você pode criar um site que seja confiável e que, por sua vez, traga mais negócios para você."
+
+#: functions/customizer/customizer-emailcourse.php:23
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Pense no seu site como um vendedor trabalhador que trabalha 24/7 e nunca pede um aumento!"
+
+#: functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr "Para trazer mais negócios a você."
+
+#: functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Um website existe por apenas uma e SOMENTE uma razão:"
+
+#: functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "CRIE WEBSITES CONFIÁVEIS"
+
+#: functions/appointment-info/welcome-screen.php:211
+msgid "Child Themes"
+msgstr "Temas filhos"
+
+#: functions/appointment-info/welcome-screen.php:210
+msgid "Free vs PRO"
+msgstr "Grátis vs PRO"
+
+#: functions/appointment-info/welcome-screen.php:208
+msgid "Actions Required"
+msgstr "Ações exigidas"
+
+#: functions/appointment-info/welcome-screen.php:207
+msgid "Getting Started"
+msgstr "Primeiros passos"
+
+#: functions/appointment-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr "Veja informações do tema"
+
+#: functions/appointment-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Legal! Não existem ações necessárias para você nesse momento."
+
+#: functions/appointment-info/welcome-screen.php:57
+msgid "Get started with Appointment Lite"
+msgstr "Comece com o Appointment Lite"
+
+#: functions/appointment-info/welcome-screen.php:56
+msgid "Welcome! Thank you for choosing Appointment Lite! To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Bem vindo! Obrigado por escolher o Appointment Lite! Para aproveitar ao máximo o melhor que o nosso tema pode oferecer, certifique-se de visitar nossa %swelcome page%s."
+
+#: functions/appointment-info/sections/github.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "O tema ainda suporta outro plugin famoso: WPML. Com a ajuda dele, você pode criar um site disponível em vários idiomas."
+
+#: functions/appointment-info/sections/github.php:116
+msgid "Translation Ready"
+msgstr "Pronto para traduções"
+
+#: functions/appointment-info/sections/github.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Construir um site com nossos widgets personalizados é muito simples. Basta colocá-los dentro da barra lateral disponível ou mesmo no conteúdo."
+
+#: functions/appointment-info/sections/github.php:106
+msgid "Custom widget"
+msgstr "Widget personalizado"
+
+#: functions/appointment-info/sections/github.php:97
+msgid "Well Documented"
+msgstr "Bem documentado"
+
+#: functions/appointment-info/sections/github.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Você receberá 13 esquemas de cores predefinidos e você mesmo pode criar seus próprios esquemas de cores preferidas, usando a Configuração de cores personalizada no Personalizador."
+
+#: functions/appointment-info/sections/github.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Os depoimentos são uma maneira poderosa de ganhar credibilidade. Você pode exibir os depoimentos com um efeito de carrossel."
+
+#: functions/appointment-info/sections/github.php:78
+msgid "Testimonial Feature"
+msgstr "Características de Depoimentos"
+
+#: functions/appointment-info/sections/github.php:70
+msgid "Latest News Section"
+msgstr "Seção Últimas notícias"
+
+#: functions/appointment-info/sections/github.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Mostre qualquer número de projetos. Este tema oferece à você uma opção para criar layouts de grade com 2, 3 ou 4 colunas usando os modelos de layout de colunas de portfólio 2, 3 ou 4, respectivamente. Se você tem vários projetos para apresentar, então estes templates são a resposta. Você também pode criar portfólios categorizados, que exibem todas as categorias do portfólio em um único local. Na verdade, codificamos esse tema para que você possa criar qualquer número de diferentes portfólios."
+
+#: functions/appointment-info/sections/github.php:61
+msgid "Portfolio Features"
+msgstr "Características do portfolio"
+
+#: functions/appointment-info/sections/github.php:51
+msgid "Service Features"
+msgstr "Características do serviço"
+
+#: functions/appointment-info/sections/github.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Você pode criar slides ilimitados que pode controlar através das configurações em Aparência >> Personalizar. O slider suporta vários formatos de posts como Padrão, Nota, Citação, Chat e Vídeo."
+
+#: functions/appointment-info/sections/github.php:42
+msgid "Caption Slider"
+msgstr "Legenda do slider"
+
+#: functions/appointment-info/sections/github.php:33
+msgid "Multi Level Navigation"
+msgstr "Navegação multi-nível"
+
+#: functions/appointment-info/sections/github.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "Na versão premium, você receberá uma área de barra lateral do cabeçalho superior onde você pode usar qualquer widget - todos os widgets tê estilos. Criamos vários widgets no tema que você pode usar aqui. Especificamente, use o Widget Appointment de informações para mostrar seu e-mail, número de contato ou qualquer outra informação de sua escolha."
+
+#: functions/appointment-info/sections/github.php:24
+msgid "Top Header Section"
+msgstr "Seção superior do cabeçalho"
+
+#: functions/appointment-info/sections/github.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Este recurso ajuda você a renomear o nome do slug da URL, permitindo torná-lo amigável ao SEO ."
+
+#: functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr "O seu feedback é valioso para nós"
+
+#: functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr "Detalhes do Tema Premium"
+
+#: functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr "Suporte de Tema Premium"
+
+#: functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr "Demo da versão Pro"
+
+#: functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Demo da versão Lite"
+
+#: functions/appointment-info/sections/getting-started.php:38
+msgid "Useful Links"
+msgstr "Links úteis"
+
+#: functions/appointment-info/sections/getting-started.php:22
+msgid "You can use this theme for any type of business. It is compatible with popular plugins like Contact Form 7, WPML, Polylang, etc. The theme has a predefined version of a Contact page, Services page, Portfolio, column layout pages, About Us and Blog layout pages, helping you to create an effective web presence."
+msgstr "Você pode usar esse tema para qualquer tipo de negócio. É compatível com plugins populares, como o Contact Form 7, WPML, Polylang etc. O tema tem uma versão predefinida com uma página de contato, página de serviços, portfólio, páginas de layout de colunas, Sobre nós e páginas de layout de blog o que ajuda você a criar uma presença efetiva na web."
+
+#: functions/appointment-info/sections/getting-started.php:20
+msgid "This is a Business theme which is ideal for creating corporate, business, fashion and sports websites. The premium version has tons of features. The Homepage has a number of sections for showing sliders, your portfolio, user reviews, latest news, services, call to action and much more. Each section in the HomePage Template is well designed according to business requirements."
+msgstr "Este é um tema para negócios ideal para criar sites corporativos, empresariais, de moda e esportivos. A versão premium tem toneladas de recursos. A página inicial possui várias seções para sliders, portfólio, análise dos usuários, últimas notícias, serviços, chamadas para ação e muito mais. Cada seção no modelo Homepage é muito bem projetado de acordo com os requisitos de sites de negócios."
+
+#: functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr "Sobre o tema Appointment"
+
+#: functions/appointment-info/sections/free_pro.php:147
+msgid "Get Appointment PRO Now!"
+msgstr "Adquira Appointment PRO agora!"
+
+#: functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#: functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr "Appointment Lite"
+
+#: functions/appointment-info/sections/free_pro.php:80
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtenha suporte instantâneo 24/7, no nosso fórum de Suporte."
+
+#: functions/appointment-info/sections/free_pro.php:79
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: functions/appointment-info/sections/free_pro.php:74
+msgid "WPML / Polylang Support"
+msgstr "Suporte ao WPML ou Polylang"
+
+#: functions/appointment-info/sections/free_pro.php:69
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Mostra reação dos usuários nas páginas Homepage e Serviços."
+
+#: functions/appointment-info/sections/free_pro.php:68
+msgid "Testimonial / Review Section"
+msgstr "Depoimentos / Seção de análise"
+
+#: functions/appointment-info/sections/free_pro.php:64
+msgid "Show all your services in a single place."
+msgstr "Mostra todos os seus serviços em um único lugar"
+
+#: functions/appointment-info/sections/free_pro.php:63
+msgid "Services Page"
+msgstr "Página Serviços"
+
+#: functions/appointment-info/sections/free_pro.php:59
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Mostre membros da equipe, seus clientes e seu conteúdo personalizado adicionados no editor do WordPress."
+
+#: functions/appointment-info/sections/free_pro.php:58
+msgid "About Us Page"
+msgstr "Página Sobre nós"
+
+#: functions/appointment-info/sections/free_pro.php:54
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Exibe sua coleção de projetos/portfólio em 2 colunas, 3 colunas e layouts de 4 colunas. Você também pode exibir seu projeto/portfólio por categoria."
+
+#: functions/appointment-info/sections/free_pro.php:53
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: functions/appointment-info/sections/free_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Exibe a localização de sua loja ou negócio em seu site usando o Google Maps."
+
+#: functions/appointment-info/sections/free_pro.php:47
+msgid "Google Map"
+msgstr "Google Map"
+
+#: functions/appointment-info/sections/free_pro.php:43
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Aproveite usando os 13 esquemas de cores predefinidos. Você também pode criar paletas personalizadas sem adicionar nenhum código."
+
+#: functions/appointment-info/sections/free_pro.php:42
+#: functions/appointment-info/sections/github.php:88
+msgid "Multiple Color Schemes"
+msgstr "Esquema de múltiplas cores"
+
+#: functions/appointment-info/sections/free_pro.php:38
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Esse recurso permite que você renomeie os nomes de slug do tipo de post personalizado, na URL."
+
+#: functions/appointment-info/sections/free_pro.php:37
+#: functions/appointment-info/sections/github.php:16
+msgid "SEO Friendly URL"
+msgstr "URL amigável para SEO"
+
+#: functions/appointment-info/sections/free_pro.php:33
+msgid "Contact Form Support"
+msgstr "Formulário de contato de Suporte"
+
+#: functions/appointment-info/sections/free_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Layout responsivo em todos os dispositivos"
+
+#: functions/appointment-info/sections/free_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Amigável a dispositivos móveis"
+
+#: functions/appointment-info/sections/free_pro.php:24
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Vários modelos de página incluídos no Appointment Premium"
+
+#: functions/appointment-info/sections/free_pro.php:23
+msgid "Page Templates Support"
+msgstr "Modelos de páginas de suporte"
+
+#: functions/appointment-info/sections/free_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "Você encontrará várias seções da página inicial"
+
+#: functions/appointment-info/sections/free_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Seções da página inicial"
+
+#: functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr "Características"
+
+#: functions/appointment-info/sections/child-themes.php:124
+msgid "Mandy"
+msgstr "Mandy"
+
+#: functions/appointment-info/sections/child-themes.php:107
+#: functions/appointment-info/sections/child-themes.php:139
+msgid "Appointment Red - Current theme"
+msgstr "Appointment Red - Tema atual"
+
+#: functions/appointment-info/sections/child-themes.php:92
+msgid "Appointment Red"
+msgstr "Appointment Red"
+
+#: functions/appointment-info/sections/child-themes.php:90
+#: functions/appointment-info/sections/child-themes.php:122
+msgid "Appointment Red Child Theme"
+msgstr "Tema Appointment Red Child"
+
+#: functions/appointment-info/sections/child-themes.php:75
+msgid "Appointment - Current theme"
+msgstr "Appointment - Tema atual"
+
+#: functions/appointment-info/sections/child-themes.php:60
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:58
+msgid "Appointment Green Child Theme"
+msgstr "Tema filho Appointment Green"
+
+#: functions/appointment-info/sections/child-themes.php:45
+#: functions/appointment-info/sections/child-themes.php:76
+#: functions/appointment-info/sections/child-themes.php:108
+#: functions/appointment-info/sections/child-themes.php:140
+#: functions/appointment-info/sections/child-themes.php:172
+msgid "Customize"
+msgstr "Personalizar"
+
+#: functions/appointment-info/sections/child-themes.php:44
+msgid "Appointment Blue - Current theme"
+msgstr "Appointment Blue - Tema atual"
+
+#: functions/appointment-info/sections/child-themes.php:38
+#: functions/appointment-info/sections/child-themes.php:69
+#: functions/appointment-info/sections/child-themes.php:101
+#: functions/appointment-info/sections/child-themes.php:133
+#: functions/appointment-info/sections/child-themes.php:165
+msgid "Live Preview"
+msgstr "Ver ao vivo"
+
+#: functions/appointment-info/sections/child-themes.php:37
+#: functions/appointment-info/sections/child-themes.php:68
+#: functions/appointment-info/sections/child-themes.php:100
+#: functions/appointment-info/sections/child-themes.php:132
+#: functions/appointment-info/sections/child-themes.php:164
+msgid "Install %s now"
+msgstr "Instalado %s agora"
+
+#: functions/appointment-info/sections/child-themes.php:29
+msgid "Appointment Blue"
+msgstr "Appointment Blue"
+
+#: functions/appointment-info/sections/child-themes.php:18
+msgid "Below you will find a selection of Appointment child themes that will totally transform the look of your site."
+msgstr "Abaixo, você encontrará uma seleção de temas filhos do Appointment que transformarão totalmente a aparência do seu site."
+
+#: functions/appointment-info/sections/child-themes.php:16
+msgid "Install & Use Appointment Child Themes"
+msgstr "Instalar e usar o Tema filho Appointment Blue"
+
+#: functions/appointment-info/sections/actions-required.php:30
+#: functions/appointment-info/sections/actions-required.php:37
+#: functions/appointment-info/sections/child-themes.php:27
+#: functions/appointment-info/sections/getting-started.php:28
+msgid "Appointment Blue Child Theme"
+msgstr "Tema filho Appointment Blue"
+
+#: functions/appointment-info/sections/actions-required.php:22
+msgid "Do you want to show the Homepage as a Front Page? You need to set the Homepage as a static page, as shown in the snapshot below. Now go to the Customizer and start configuring the sections in the Business Template. We hope you will find this theme useful."
+msgstr "Deseja mostrar uma página como a página inicial do site? Você precisa configurá-la como uma página estática, conforme mostrado na imagem abaixo. Agora, vá para o Personalizados e comece a configurar as seções do modelo Business. Esperamos que você considere esse tema útil."
+
+#: functions/appointment-info/sections/actions-required.php:21
+msgid "2. Assign Homepage as Front Page Display"
+msgstr "2.Atribuir a página como página inicial do site"
+
+#: functions/appointment-info/sections/actions-required.php:14
+msgid "To set up an exact replica of the Homepage as shown in our demo, you have to create a WordPress page using the Home Page Template. The Business Template has all the sections like banners, services, portfolio, etc., which are ideal for any business site. Kindly refer to the snapshot."
+msgstr "Para configurar uma réplica exata da Homepage como mostrado em nossa demo, você deve criar uma página no WordPress usando o modelo Home Page. O modelo Business possui todas as seções como banners, serviços, portfólio etc., que são ideais para qualquer site comercial. Consulte a imagem de tela."
+
+#: functions/appointment-info/sections/actions-required.php:13
+msgid "1. Creating Homepage using Home Page Template."
+msgstr "1.Criando uma página inicial usando o modelo Home Page."
+
+#: functions/customizer/customizer-template.php:127
+msgid "Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr "Ocultar meta de páginas de blog, páginas de arquivo, categorias, autores etc."
+
+#: functions/customizer/customizer-template.php:434
+msgid "Our office location"
+msgstr "A localização do nosso escritório"
+
+#: functions/customizer/customizer-testimonial.php:13
+msgid "Testimonial settings"
+msgstr "Configuração de depoimentos"
+
+#: functions/customizer/customizer-testimonial.php:46
+msgid "What our clients say:"
+msgstr "O que nossos clientes dizem:"
+
+#: functions/customizer/customizer-template.php:350
+#: functions/customizer/customizer-testimonial.php:61
+msgid "Read what customers are saying:"
+msgstr "Leia o que os clientes estão dizendo:"
+
+#: functions/customizer/customizer-testimonial.php:129
+msgid "Click here to add testimonial"
+msgstr "Clique aqui para adicionar seu depoimento"
+
+#: functions/customizer/customizer_theme_style.php:13
+#: functions/customizer/customizer_theme_style.php:54
+msgid "Predefined colors"
+msgstr "Cores predefinidas"
+
+#: functions/customizer/customizer_theme_style.php:40
+msgid "Theme style setting"
+msgstr "Configurações de estilo do tema"
+
+#: functions/customizer/customizer_theme_style.php:108
+msgid "Skin color"
+msgstr "Cor do tema"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add a client image and link?"
+msgstr "Deseja adicionar uma imagem e link do cliente?"
+
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-pro.php:20
+#: functions/customizer/customizer-project.php:6
+#: functions/customizer/customizer-slider.php:5
+#: functions/customizer/customizer_theme_style.php:12
+msgid "Upgrade to Pro"
+msgstr "Torne-se Pro"
+
+#: functions/customizer/customizer-client.php:15
+msgid "Client settings"
+msgstr "Configurações do cliente"
+
+#: functions/customizer/customizer-client.php:35
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-project.php:37
+#: functions/customizer/customizer-slider.php:157
+#: functions/customizer/customizer-template.php:82
+#: functions/customizer/customizer-template.php:107
+#: functions/customizer/customizer-template.php:156
+#: functions/customizer/customizer-template.php:185
+#: functions/customizer/customizer-template.php:305
+#: functions/customizer/customizer-template.php:547
+#: functions/customizer/customizer-testimonial.php:35
+msgid "Appointment upgrade"
+msgstr "Upgrade do Appointment"
+
+#: functions/customizer/customizer-footer-callout.php:14
+#: functions/customizer/customizer-footer-callout.php:21
+msgid "Footer callout settings"
+msgstr "Configurações das chamadas de rodapé"
+
+#: functions/customizer/customizer-footer-callout.php:134
+msgid "We are open Mon - Fri"
+msgstr "Estamos abertos de segunda a sexta-feira"
+
+#: functions/customizer/customizer-footer-callout.php:154
+msgid "Mon - Fri : 08.00 - 18.00"
+msgstr "Seg - Sex: 08.00 - 18.00"
+
+#: functions/customizer/customizer-footer-callout.php:190
+#: functions/customizer/customizer-template.php:489
+msgid "Drop us a mail"
+msgstr "Envie-nos um e-mail"
+
+#: functions/customizer/customizer-project.php:6
+msgid "Want to add projects and categorization?"
+msgstr "Deseja adicionar projetos e categorização?"
+
+#: functions/customizer/customizer-project.php:15
+msgid "Project settings"
+msgstr "Configurações do projeto"
+
+#: functions/customizer/customizer-project.php:48
+msgid "Latest projects"
+msgstr "Projetos recentes"
+
+#: functions/customizer/customizer-project.php:105
+msgid "Click here to add project"
+msgstr "Clique aqui para adicionar projeto"
+
+#: functions/customizer/customizer-project.php:91
+msgid "Input number of projects"
+msgstr "Entre o número de projetos"
+
+#: functions/customizer/customizer-project.php:135
+msgid "Select project category archive column layout"
+msgstr "Selecione o layout de coluna do arquivo de categoria do projeto"
+
+#: functions/customizer/customizer-template.php:59
+msgid "Template settings"
+msgstr "Configurações do modelo"
+
+#: functions/customizer/customizer-template.php:169
+msgid "Contact page setting"
+msgstr "Configuração da página de contato"
+
+#: functions/customizer/customizer-template.php:195
+msgid "Send us a message"
+msgstr "Envie-nos uma mensagem"
+
+#: functions/customizer/customizer-template.php:202
+msgid "Contact form title"
+msgstr "Título do formulário de contato"
+
+#: functions/customizer/customizer-template.php:220
+msgid "Hide Google Map"
+msgstr "Ocultar Google Maps"
+
+#: functions/customizer/customizer-template.php:230
+msgid "Find the address"
+msgstr "Encontre o endereço"
+
+#: functions/customizer/customizer-template.php:237
+msgid "Contact Google Map title"
+msgstr "Título do Google Map"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Google Map URL"
+msgstr "URL do Google Map"
+
+#: functions/customizer/customizer-template.php:267
+msgid "Click here to add Google Map"
+msgstr "Clique aqui para adicionar um Google Map"
+
+#: functions/customizer/customizer-template.php:290
+msgid "Contact information settings"
+msgstr "Configurações das informações para contato"
+
+#: functions/customizer/customizer-template.php:334
+#: functions/customizer/customizer-template.php:579
+msgid "Contact info"
+msgstr "Informações de contato"
+
+#: functions/widgets/sidebars.php:35 functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr "Widget da área direita abaixo do slider"
+
+#: functions/widgets/sidebars.php:44 functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr "Widget da área central abaixo do slider"
+
+#: functions/widgets/sidebars.php:26 functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr "Widget da área esquerda abaixo do slider"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Largura total"
+
+#: functions/customizer/customizer-callout.php:98
+#: functions/customizer/customizer-template.php:614 theme_setup_data.php:59
+msgid "Purchase Now"
+msgstr "Compre agora"
+
+#: single.php:17
+msgid "About the author"
+msgstr "Sobre o Autor"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Pesquisar"
+
+#: search.php:18
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nada coincide com seus critérios de busca. Tente outra vez com palavras-chave diferentes."
+
+#: search.php:16
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: index-slider.php:23 index-slider.php:31 index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr "Um poderoso tema Bootstrap"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Área do widget de rodapé"
+
+#: functions/customizer/customizer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:107
+#: functions/customizer/customizer-footer-callout.php:163
+#: functions/customizer/customizer-footer-callout.php:218
+#: functions/customizer/customizer-news.php:85
+#: functions/customizer/customizer-project.php:73
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:253
+#: functions/customizer/customizer-service.php:314
+#: functions/customizer/customizer-service.php:377
+#: functions/customizer/customizer-service.php:440
+#: functions/customizer/customizer-template.php:407
+#: functions/customizer/customizer-template.php:462
+#: functions/customizer/customizer-template.php:517
+#: functions/customizer/customizer-template.php:604
+#: functions/customizer/customizer-testimonial.php:68
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Descrição"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "Ícone FontAwesome"
+
+#: functions/customizer/customizer-callout.php:51
+#: functions/customizer/customizer-footer-callout.php:88
+#: functions/customizer/customizer-footer-callout.php:144
+#: functions/customizer/customizer-footer-callout.php:199
+#: functions/customizer/customizer-news.php:70
+#: functions/customizer/customizer-project.php:55
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:172
+#: functions/customizer/customizer-service.php:235
+#: functions/customizer/customizer-service.php:296
+#: functions/customizer/customizer-service.php:358
+#: functions/customizer/customizer-service.php:421
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:443
+#: functions/customizer/customizer-template.php:498
+#: functions/customizer/customizer-template.php:586
+#: functions/customizer/customizer-testimonial.php:53
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Título"
+
+#: functions/customizer/customizer-footer-callout.php:79
+#: functions/customizer/customizer-template.php:380
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Dúvidas? Ligue-nos agora"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Widget de informação do tema."
+
+#: functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Início"
+
+#: functions/customizer/customizer-slider.php:143
+msgid "Input number of slides"
+msgstr "Entre o número de slides"
+
+#: functions/customizer/customizer-slider.php:104
+msgid "Select slider animation"
+msgstr "Selecione a animação do slider"
+
+#: functions/customizer/customizer-slider.php:93
+#: functions/customizer/customizer-slider.php:106
+#: functions/customizer/customizer-testimonial.php:81
+#: functions/customizer/customizer-testimonial.php:93
+msgid "slide"
+msgstr "Slide"
+
+#: functions/customizer/customizer-slider.php:82
+msgid "Select category for slider"
+msgstr "Selecione a categoria para o slider"
+
+#: functions/customizer/customizer-slider.php:64
+msgid "Category slider"
+msgstr "Categoria do slider"
+
+#: functions/customizer/customizer-slider.php:63
+msgid "Demo slider"
+msgstr "Demonstração do slider"
+
+#: functions/customizer/customizer-slider.php:60
+msgid "Select slider type"
+msgstr "Selecione o tipo de slider"
+
+#: functions/customizer/customizer-slider.php:20
+msgid "Featured slider settings"
+msgstr "Configurações da característica do slider"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Slider settings"
+msgstr "Configurações do slider"
+
+#: functions/customizer/customizer-service.php:461
+msgid "Add more services"
+msgstr "Adicione mais serviços"
+
+#: functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr "Seção de serviço seis"
+
+#: functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr "Seção de serviço cinco"
+
+#: functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr "Seção de serviço quatro"
+
+#: functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr "Seção de serviço três"
+
+#: functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr "Seção de serviço dois"
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:163
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:349
+#: functions/customizer/customizer-service.php:412 theme_setup_data.php:36
+#: theme_setup_data.php:39 theme_setup_data.php:42 theme_setup_data.php:45
+#: theme_setup_data.php:48 theme_setup_data.php:51
+msgid "Easy to use"
+msgstr "Fácil de usar"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Seção de serviço um"
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:33
+msgid "Our services"
+msgstr "Nossos serviços"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Configurações de serviço"
+
+#: functions/customizer/customizer-pro.php:77
+msgid "The Pro version gives you more opportunities to enhance your site and business. In order to create an effective online presence, one must showcase their wide range of products, use a Contact Us enquiry form, create an effective About Us page, introduce the Team Members, etc. The Pro version offers all this. Buy the Pro version today and give us the chance to serve you better."
+msgstr "A versão Pro oferece mais oportunidades para aprimorar seu site e seus negócios. para se criar uma presença on-line efetiva, é preicos mostrar sua ampla gama de produtos, ter um formulário de para Contato, criar uma página efetiva Sobre nós, apresentar os Membros da equipe etc. A versão Pro oferece tudo isso. Compre a versão Pro hoje e nos dê a chance de atendê-lo melhor."
+
+#: functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr "Documentação"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "ADICIONE SUA ANÁLISE"
+
+#: functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PRO"
+msgstr "ATUALIZE PARA PRO"
+
+#: functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr "Selecione o número de posts"
+
+#: functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr "Selecione a categoria para as Últimas notícias"
+
+#: functions/customizer/customizer-news.php:63 theme_setup_data.php:69
+msgid "Latest news"
+msgstr "Últimas notícias"
+
+#: functions/customizer/customizer-news.php:8
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr "Configuração das Últimas notícias"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Escolha seu favicon (largura e altura ideias são 16x16 ou 32x32)"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "Carregue um favicon"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Favicon do site"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Mostrar texto do logo"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "Digite a altura do logo"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "Digite a largura do logo"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Ativar/Desativar logo"
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Envie uma imagem de logo de 150x150"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Configurações do logo do cabeçalho"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Texto do Cabeçalho"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Título do cabeçalho"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Configurações personalizadas de cabeçalho "
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Configurações do cabeçalho"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr " URL do Skype"
+
+#: functions/customizer/customizer-copyright.php:203 functions.php:98
+msgid "GooglePlus URL"
+msgstr " URL do GooglePlus"
+
+#: functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:292 functions.php:97
+msgid "LinkedIn URL"
+msgstr " URL do LinkedIn"
+
+#: functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:256 functions.php:96
+msgid "Twitter URL"
+msgstr "Link do Twitter"
+
+#: functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218 functions.php:95
+msgid "Facebook URL"
+msgstr "Link do Facebook"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "Ocultar cabeçalho com Ícones sociais"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Links Sociais"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Ocultar texto de direitos autorais"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Copyright Text"
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:75
+msgid "No copyright information has been saved yet."
+msgstr "Nenhuma informação de direitos autorais foi salva ainda."
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Configurações de nota sobre direito autoral no rodapé"
+
+#: functions/customizer/customizer-callout.php:157 theme_setup_data.php:62
+msgid "Get in Touch"
+msgstr "Entrar em contato"
+
+#: functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr "Botão dois"
+
+#: functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr "Botão um"
+
+#: functions/customizer/customizer-callout.php:44 theme_setup_data.php:56
+msgid "Want to say hey or find out more?"
+msgstr "Quer dizer um \"oi\" ou descobrir mais?"
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+#: functions/customizer/customizer-template.php:532
+msgid "Contact callout settings"
+msgstr "Configurações das chamadas de contato"
+
+#: functions/breadcrumbs/breadcrumbs.php:102
+#: functions/breadcrumbs/breadcrumbs.php:108 functions.php:83
+msgid "Page"
+msgstr "Página"
+
+#: functions/template-tag.php:23 index-news.php:47
+msgid "By"
+msgstr "por"
+
+#: content.php:12 functions.php:115 functions.php:132 index-slider.php:25
+#: index-slider.php:33 index-slider.php:41
+msgid "Read More"
+msgstr "Ler mais"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "Deixe uma resposta"
+
+#: comments.php:77
+msgid "Send Message"
+msgstr "Enviar Mensagem"
+
+#: comments.php:75
+msgid "Logout from this Account"
+msgstr "Sair desta conta"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Autenticado como"
+
+#: comments.php:65
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Comentários recentes &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários antigos"
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: comments.php:40
+msgid "Comments so far"
+msgstr "Comentários até agora"
+
+#: comments.php:40
+msgid "1 Comment so far"
+msgstr "1 comentário até agora"
+
+#: comments.php:40
+msgid "No Comments so far"
+msgstr "Não há comentários até agora"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: comments.php:26
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:12
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este post é protegido por senha. Digite a senha pra ver os comentários."
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Arquivo do blog"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Arquivo anual"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Arquivo mensal"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Arquivo diário"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Voltar"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lamentamos, mas a página que você está procurando não existe."
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Opa! Página não encontrada"
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/appointment-wordpress-theme-1/"
+msgstr "http://webriti.com/appointment-wordpress-theme-1/"
